@@ -1,2 +1,2 @@
 # xh011-device-tree
-for chinese smartwatch jc02
+jc02设备树
